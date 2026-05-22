@@ -10,6 +10,7 @@ Project ini menggunakan Hardhat dan dapat di-deploy ke local blockchain untuk in
 
 - Diandra Naufal A (004)
 - Danar Bagus R (055)
+- Tio Axellino I (065)
 
 ## Screenshot Bukti
 
