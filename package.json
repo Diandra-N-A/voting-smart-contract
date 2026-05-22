@@ -1,0 +1,20 @@
+{
+  "name": "voting-smart-contract",
+  "version": "1.0.0",
+  "description": "Simple Voting smart contract project using Solidity and Hardhat.",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "coverage": "hardhat coverage",
+    "deploy:local": "hardhat run scripts/deploy.js --network localhost",
+    "interact:local": "hardhat run scripts/interact.js --network localhost"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-chai-matchers": "^2.0.8",
+    "@nomicfoundation/hardhat-ethers": "^3.0.8",
+    "chai": "^4.5.0",
+    "ethers": "^6.13.5",
+    "hardhat": "^2.22.18",
+    "solidity-coverage": "^0.8.14"
+  }
+}
