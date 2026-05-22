@@ -28,8 +28,3 @@ Project ini menggunakan Hardhat dan dapat di-deploy ke local blockchain untuk in
 
 - Deploy Contract
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7a4d0386-3c24-474c-a76a-9cd40bbe3124" />
-
-3. Owner dapat mengatur voting power alamat tertentu.
-4. User vote satu kali.
-5. Contract menolak double vote dan vote setelah deadline.
-6. Setelah deadline, pemenang bisa dilihat jika quorum tercapai.
